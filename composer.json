@@ -1,0 +1,5 @@
+{
+    "require": {
+        "felippe-regazio/php-hot-reloader": "dev-master"
+    }
+}
